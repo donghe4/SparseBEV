@@ -1,0 +1,1 @@
+docker exec -it sparsebev_$USER /bin/bash

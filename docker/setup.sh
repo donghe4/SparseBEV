@@ -1,0 +1,1 @@
+docker exec sparsebev_$USER bash /sparsebev/scripts/compile_cuda.sh
